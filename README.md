@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 Hi, I'm takeshitaallround. I am the director of a systems development company. I am learning generative AI.
 
+<details>
+<summary>My Generative AI</summary>
 | Rank | Generative AI |
 |-----:|-----------|
 |     1| ChatGPT|
-|     2| Claude    |
-|     3| Others       |
+|     2| Claude|
+|     3| Others|
+</details>
