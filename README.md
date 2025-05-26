@@ -21,9 +21,11 @@ Hi, I'm takeshitaallround. I am the director of a systems development company. I
 
 <details>
 <summary>My Generative AI</summary>
+  
 | Rank | Generative AI |
 |-----:|-----------|
 |     1| ChatGPT|
 |     2| Claude|
 |     3| Others|
+
 </details>
